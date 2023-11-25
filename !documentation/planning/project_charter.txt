@@ -1,0 +1,6 @@
+Responsibilities
+---
+Ammaar ->   Design interface and complete the homepage; js coding
+Sino ->     create the cards; js coding
+
+<end>
