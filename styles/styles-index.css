@@ -1,0 +1,58 @@
+header {
+    color: olive;
+    background-color: black;
+    background-blend-mode: hard-light;
+
+    /* background-image: url("./images/glowing-stone-evening-orange-flame-lighting-1416311-pxhere.com.jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+:root{
+    --for-header:210px;
+}
+
+header h1 {
+    font-size: 100px;
+    font-weight: 300;
+    padding: 45px;
+    text-align: center;
+    transition: 400ms ease;
+    
+    height: var(--for-header);
+    /* height: 10vh; */
+}
+
+
+/* menu */
+header .menu {
+    /* border: 1px solid white; */
+    padding: 10px;
+    /* border-radius: 20px; */
+    /* background-color: rgb(116, 6, 6); */
+    color: white;
+
+    /* margin-top:50px; */
+    /* height: 80vh; */
+    height: calc(90vh - var(--for-header));
+}
+
+.menu button{
+    width:150px;
+    height:80px;
+    font-size:20px;
+
+    border-radius:40px;
+    border:2px solid white;
+    margin:30px;
+}
+
+/* hidden */
+.hidden audio{
+    margin:10px;
+    /* padding: 10px; */
+    /* border:4px solid olive; */
+    /* background-color: whitesmoke; */
+}

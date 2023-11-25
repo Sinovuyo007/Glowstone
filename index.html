@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- started: 24.11.23 -->
+    <!-- updated: 24.11.23 -->
+    <!-- created by trpl-A -->
+    <title>Glowstone</title>
+
+    <!-- fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap" rel="stylesheet">
+
+    <!-- styles -->
+    <link rel="stylesheet" href="./styles/main.css">
+    <link rel="stylesheet" href="./styles/styles-index.css">
+
+    <!-- screensize -->
+    <link rel=" stylesheet" href="./styles/screensize-index.css">
+
+    <!-- scripts -->
+    <script src="./scripts/app.js"></script>
+</head>
+
+<body>
+    <!-- hidden -->
+    <div class="hidden center" id="music">
+        <div>
+            <h2>Music</h2>
+
+            <div class="center">
+                <audio src="./audio/ss - Fables.mp3" loop="true" controls="true"></audio>
+            </div>
+
+
+            <div class="center">
+                <p>secession studios - fables</p>
+
+            </div>
+
+            <div class="center">
+                <button onclick="hide('music')">Close</button>
+            </div>
+        </div>
+    </div>
+
+    <header>
+        <h1>Glowstone</h1>
+
+        <div class=" center menu">
+
+            <div>
+                <div class="center">
+                    <a href="./play.html">
+                        <button>Play</button>
+                    </a>
+                </div>
+                <div class="center">
+                    <a href="./cards.html">
+                        <button>My cards</button>
+                    </a>
+                </div>
+                <div class="center">
+                    <button onclick="show('music')">Music</button>
+                </div>
+            </div>
+        </div>
+    </header>
+</body>
+
+</html>
