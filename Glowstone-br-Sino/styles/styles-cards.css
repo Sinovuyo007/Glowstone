@@ -1,0 +1,59 @@
+.information-box {
+    width: 0;
+    position: absolute;
+    z-index: 1;
+    height: 330px;
+    top: 0;
+    right: 0;
+    background-color: black;
+    color: white;
+    
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+ 
+
+/* playing card */
+/* .playing-card{
+    border:2px solid white;
+    border-radius: 20px;
+        width: 300px;
+        height: 450px;
+        /* object-fit: fill; */
+        /* object-fit: scale-down; 
+        object-fit: contain;
+}
+
+.playing-card:hover {
+    transform: scale(0.9);
+} */
+
+
+
+.card-border img{
+    border-radius: 20px;
+    width:300px;
+    height:450px;
+    object-fit: contain;
+    
+}
+
+.card-border{
+    border-radius: 30px;
+    background-color: black;
+    /* background-color: white; */
+    border:2px solid white; 
+
+    padding:2px;
+    margin:10px;
+    width:fit-content;
+    height: fit-content;
+
+    transition:700ms ease;
+    cursor: pointer;
+}
+
+.card-border:hover{
+    transform:scale(0.9);
+}
