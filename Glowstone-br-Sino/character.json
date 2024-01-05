@@ -1,0 +1,19 @@
+{
+    "guardians": 2,
+    "protectors": 8,
+    "characters":[
+        {
+            "name": "character1",
+            "health-points": 10,
+            "attack-points": 10,
+            "defence-pointes": 10
+        },
+        {
+            "name": "character2",
+            "health-points": 9,
+            "attack-points": 8,
+            "defence-pointes": 10
+        }
+    ]
+
+}

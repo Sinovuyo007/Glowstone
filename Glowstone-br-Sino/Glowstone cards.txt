@@ -1,0 +1,24 @@
+santa-HP24 AP15 sp-the naughty boxs-Trap characters for 6 turns away from deck
+leech-HP3 AP2 sp-Steal 5HP and 5AP
+Medusa-20HP 16AP sp- turns cards into stone
+Ancient fairy -20HP 15AP sp-Heals all allied card by 5HP
+Frostbite-      sp-Freeze enemy for 2 turns
+troll - 3HP 4AP sp-Provokes enemies into attacking it first
+Toro- 10HP 6AP sp-toro rush gives 10AP for one turn
+restrictor - 6HP 4AP sp-restricts attributes for 2 turns
+Clock K - 9HP 6AP sp-invunerable can be attacked by minions
+Playback - 6HP 5AP sp-Rewinds brings back of the cards of your choice
+Succubi- 20 HP 14AP 
+Athena - 22HP 17AP
+Enforcer -25 HP 15AP sp-Not affected by attributes
+Dark pheonix-22HP 16AP sp-Traps a card for the duration of its stay in the game
+Rowan the beastmaster-5HP 4AP sp-pushes out 3 cards and replaces themwit 3 monster cards
+Goblin thief - 7HP 3AP sp-steals half the opponents attack points and adds it to its self
+Sir anthony the dumbest knight-Hp1 AP-3
+Enga- sp-spite-Destroy yourself and any other card with a value with a value higher than 5(negated if they have a shield)
+Snowman-HP4 2AP
+Minatour-26HP 16AP sp-Provide a 1 shield for you and allies
+Stone golem - 8HP 4AP sp-not affected by medusa attribute
+Cobra-6HP 5AP sp-venom strike-reduce the enemies hp by 1 each turn
+Chris - 3HP 4AP sp-midnight form: tranforms to a werewolf which has 12HP 7AP, when defeated switches back to chris
+

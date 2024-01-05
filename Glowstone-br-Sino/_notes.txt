@@ -1,0 +1,5 @@
+- favicon?
+- video bg for home page?
+- add bg music?
+- color palette -> black, white, olive
+<end>
